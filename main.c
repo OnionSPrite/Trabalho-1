@@ -2,6 +2,12 @@
 #include <stdlib.h>
 #define MAX 100
 
+//Horas gastas no código: 1 (Atualze sempre que mexer no código :D);
+//NÃO ESQUECER O PONTO E VÍRGULA (;);
+//NÃO ESQUECER O 'E UNIVERSAL (&)' NO SCANF;
+//Conferir SEMPRE as chaves ({});
+//COMENTE NO CÓDIGO;
+
 int main()
 {
     int n, m[MAX][MAX];
