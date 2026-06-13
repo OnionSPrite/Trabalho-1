@@ -7,6 +7,8 @@
 //NÃO ESQUECER O 'E UNIVERSAL (&)' NO SCANF;
 //Conferir SEMPRE as chaves ({});
 //COMENTE NO CÓDIGO;
+//O Codigo deve apresentar Erro nas ocasiões onde o Conjunto selecionado não existe.
+//Um conjunto que não há numeros dentro mas foi declarado, ainda é um conjunto que EXISTE.
 
 struct leitura_de_cmd { // Struct que define o comando executado dentro da nossa calculadora, o conjunto selecionado e o valor inserido;
     char interacao[1];
