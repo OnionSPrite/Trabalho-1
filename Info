@@ -9,21 +9,13 @@ https://github.com/OnionSPrite/Trabalho-1
 Informações Úteis:
 
 1.
-(Add Texto)
-WIP
+Foram criadas pequenas funções para tornar a maioria das funções mais fáceis de executar, como funções que executam ações basicas como imprimir, ler, verificar semelhanças, etc
 
 2.
-(Add Texto)
-WIP
+Usamos a função Switch para determinar o tipo de comando dado pelo usuario. (Material da Aula 7)
 
 3.
-(Add Texto)
-WIP
+Uma função foi criada justamente para liberar a memoria alocada, e ela está presente no final do código
 
 4.
-(Add Texto)
-WIP
-
-5.
-(Add Texto)
-WIP
+Sempre que o usuario interage, verificamos se é necessario a array é realocada.
